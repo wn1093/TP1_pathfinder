@@ -1,0 +1,279 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Home</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Travello template project">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="{% static 'styles/bootstrap4/bootstrap.min.css' %}">
+<link href="{% static 'plugins/font-awesome-4.7.0/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="{% static 'plugins/OwlCarousel2-2.2.1/owl.carousel.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'plugins/OwlCarousel2-2.2.1/owl.theme.default.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'plugins/OwlCarousel2-2.2.1/animate.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'styles/main_styles.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'styles/responsive.css' %}">
+</head>
+<style>
+	/* 달력 스타일 설정 */
+	.calendar {
+	  display: inline-block;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  padding: 0px;
+	}
+</style>
+<script>
+	// 출발일자와 도착일자 input 요소 가져오기
+	const departureInput = document.getElementById('departure_date');
+	const returnInput = document.getElementById('return_date');
+
+	// 현재 날짜를 구하기 위한 함수
+	function getCurrentDate() {
+		const today = new Date();
+		const year = today.getFullYear();
+		const month = String(today.getMonth() + 1).padStart(2, '0');
+		const day = String(today.getDate()).padStart(2, '0');
+		return `${year}-${month}-${day}`;
+	}
+
+	// 현재 날짜를 출발일자와 도착일자에 기본값으로 설정
+	departureInput.value = getCurrentDate();
+	returnInput.value = getCurrentDate();
+</script>
+<body>
+
+<div class="super_container">
+	
+	<!-- Header -->
+
+	<header class="header">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="header_content d-flex flex-row align-items-center justify-content-start">
+						<div class="header_content_inner d-flex flex-row align-items-end justify-content-start">
+							<div class="logo"><a href="">PATH FINDER</a></div>
+							<nav class="main_nav">
+								<ul class="d-flex flex-row align-items-start justify-content-start">
+									<li class="active"><a href="">Home</a></li>
+									<li><a href="accounts/news">Price</a></li>
+									<li><a href="accounts/contact">Airline</a></li>
+
+									{% if user.is_authenticated %}
+										<li><a href="accounts/logout">Logout</a></li>
+									{% else %}
+										<li><a href="accounts/register">Hotel</a></li>
+									{% endif %}
+								</ul>
+							</nav>
+							{% if user.is_authenticated %}
+								<div class="header_phone ml-auto">Welcome, {{user.first_name}}</div>
+							{% endif %}
+
+							<!-- Hamburger -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<!-- Menu -->
+
+	<div class="menu">
+		<div class="menu_header d-flex flex-row align-items-center justify-content-start">
+			<div class="menu_logo"><a href="">PATH FINDER</a></div>
+			<div class="menu_close_container ml-auto"><div class="menu_close"><div></div><div></div></div></div>
+		</div>
+		<div class="menu_content">
+			<ul>
+				<li class="active"><a href="">Home</a></li>
+				<li><a href="accounts/news">Price</a></li>
+				<li><a href="accounts/contact">Airline</a></li>
+
+				{% if user.is_authenticated %}
+					<li><a href="accounts/logout">Logout</a></li>
+				{% else %}
+					<li><a href="accounts/register">Hotel</a></li>
+				{% endif %}
+			</ul>
+		</div>
+	</div>
+	
+	<!-- Home -->
+
+	<div class="home">
+		
+		<!-- Home Slider -->
+		<div class="home_slider_container">
+			<div class="owl-carousel owl-theme home_slider">
+				
+				<!-- Slide -->
+				<div class="owl-item">
+					<div class="background_image" style="background-image:url({% static 'images/Paris-Eiffel-Tower.jpg' %})"></div>
+					<div class="home_slider_content_container">
+						<div class="container">
+							<div class="row">
+								<div class="col">
+									<div class="home_slider_content">
+										<div class="home_title"><h2></h2></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Slide -->
+				<div class="owl-item">
+					<div class="background_image" style="background-image:url({% static 'images/arc-de-triomphe-5432392_1920.jpg' %})"></div>
+					<div class="home_slider_content_container">
+						<div class="container">
+							<div class="row">
+								<div class="col">
+									<div class="home_slider_content">
+										<div class="home_title"><h2>PATH FINDER</h2></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Slide -->
+				<div class="owl-item">
+					<div class="background_image" style="background-image:url({% static 'images/home_slider.jpg' %})"></div>
+					<div class="home_slider_content_container">
+						<div class="container">
+							<div class="row">
+								<div class="col">
+									<div class="home_slider_content">
+										<div class="home_title"><h2>PATH FINDER</h2></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="home_page_nav">
+				<ul class="d-flex flex-column align-items-end justify-content-end">
+					<li><a href="#">Home<span>01</span></a></li>
+					<li><a href="#">Suggestion<span>02</span></a></li>
+					<li><a href="#">Travel<span>03</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<!-- Search -->
+
+	<div class="home_search">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="home_search_container">
+						<div class="home_search_title">Search for your trip</div>
+						<div class="home_search_content">
+							<form action="accounts/news" class="home_search_form" id="home_search_form" name="home_search_form" method="get">
+								<div class="d-flex flex-lg-row flex-column align-items-start justify-content-lg-between justify-content-start">
+									<select class="search_input search_input_1" id="departure" name="departure" required>
+										<option value="" disabled selected>출발지</option>
+										<option value="ICN">인천국제공항(ICN)</option>
+									</select>	
+									<select class="search_input search_input_2" id="arrival" name="arrival" required>
+										<option value="" disabled selected>도착지</option>
+										<option value="CDG">샤흘르 드 골(CDG)</option>
+										<option value="ORY">오흘리(ORY)</option>
+										<option value="BVA">부베(BVA)</option>
+									</select>
+									<select class="search_input search_input_3" id="direct_flight" name="direct_flight" required>
+										<option value="" disabled selected>직항/경유</option>
+										<option value="1">직항</option>
+										<option value="0">경유</option>
+									</select>
+									<select class="search_input search_input_4" id="personnel" name="personnel" required>
+										<option value="" disabled selected>인원</option>
+										<option value="1">1</option>	
+										<option value="2">2</option>	
+										<option value="3">3</option>	
+										<option value="4">4</option>	
+										<option value="5">5</option>	
+										<option value="6">6</option>	
+										<option value="7">7</option>
+										<option value="8">8</option>
+									</select>
+									<div class="calendar">
+										<label for="departure_date">출발일자:</label>
+										<input type="date" id="departure_date" name="departure_date" min="2023-06-05" max="2023-12-31" value="2023-07-27">
+									 </div>
+									<div class="calendar">
+										<label for="return_date">도착일자:</label>
+										<input type="date" id="return_date" name="return_date" min="2023-06-05" max="2023-12-31" value="2023-07-28">
+									 </div>
+									<button class="home_search_button" id="search_button">검색</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Intro -->
+<!-- <!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>달력 선택 예제</title>
+<style>
+  /* 달력 스타일 설정 */
+  .calendar {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0px;
+  }
+</style>
+</head>
+<body>
+  
+  
+
+  
+</body>
+</html> -->
+			
+
+	<!-- Footer -->
+<script src="{% static 'js/jquery-3.2.1.min.js' %}"></script>
+<script src="{% static 'styles/bootstrap4/popper.js' %}"></script>
+<script src="{% static 'styles/bootstrap4/bootstrap.min.js' %}"></script>
+<script src="{% static 'plugins/OwlCarousel2-2.2.1/owl.carousel.js' %}"></script>
+<script src="{% static 'plugins/Isotope/isotope.pkgd.min.js' %}"></script>
+<script src="{% static 'plugins/scrollTo/jquery.scrollTo.min.js' %}"></script>
+<script src="{% static 'plugins/easing/easing.js' %}"></script>
+<script src="{% static 'plugins/parallax-js-master/parallax.min.js' %}"></script>
+<script src="{% static 'js/custom.js' %}"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+
+</body>
+
+</html>
