@@ -1,0 +1,413 @@
+2023-07-30 20:49:02,820:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:02,834:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:02,834:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:02,834:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:27,177:INFO:Initializing load_model()
+2023-07-30 20:49:27,177:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 20:49:50,118:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:50,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:50,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:49:50,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:50:10,753:INFO:Initializing load_model()
+2023-07-30 20:50:10,753:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 20:51:44,004:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:44,020:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:44,020:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:44,020:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:56,071:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:56,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:56,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:51:56,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:52:30,035:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:52:30,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:52:30,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:52:30,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:52:57,025:INFO:Initializing load_model()
+2023-07-30 20:52:57,025:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 20:55:39,605:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:55:39,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:55:39,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:55:39,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:55:54,873:INFO:Initializing load_model()
+2023-07-30 20:55:54,873:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 20:58:13,545:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:58:13,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:58:13,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:58:13,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:58:33,801:INFO:Initializing load_model()
+2023-07-30 20:58:33,802:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 20:59:28,141:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:59:28,161:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:59:28,161:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:59:28,161:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 20:59:46,125:INFO:Initializing load_model()
+2023-07-30 20:59:46,125:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:00:27,307:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:00:27,326:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:00:27,326:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:00:27,326:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:00:39,169:INFO:Initializing load_model()
+2023-07-30 21:00:39,170:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:01:07,178:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:01:07,191:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:01:07,192:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:01:07,192:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:01:20,394:INFO:Initializing load_model()
+2023-07-30 21:01:20,395:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:04:53,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:04:54,174:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:04:54,174:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:04:54,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:05:09,016:INFO:Initializing load_model()
+2023-07-30 21:05:09,017:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:06:20,333:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:06:20,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:06:20,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:06:20,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:06:30,441:INFO:Initializing load_model()
+2023-07-30 21:06:30,441:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:07:06,045:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:07:06,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:07:06,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:07:06,060:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:07:13,786:INFO:Initializing load_model()
+2023-07-30 21:07:13,786:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:21:32,031:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:21:32,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:21:32,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:21:32,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:22:53,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:22:53,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:22:53,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:22:53,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:23:11,535:INFO:Initializing load_model()
+2023-07-30 21:23:11,535:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 21:28:19,767:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:28:19,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:28:19,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:28:19,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:29:33,448:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:29:33,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:29:33,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:29:33,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:34:20,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:34:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:34:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:34:20,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 21:34:36,242:INFO:Initializing load_model()
+2023-07-30 21:34:36,243:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 22:11:36,850:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:11:36,914:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:11:36,914:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:11:36,914:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:12:02,219:INFO:Initializing load_model()
+2023-07-30 22:12:02,220:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 22:13:48,127:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:13:48,145:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:13:48,146:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:13:48,146:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:14:03,222:INFO:Initializing load_model()
+2023-07-30 22:14:03,222:INFO:load_model(model_name=models\Flight_ML.pkl, platform=None, authentication=None, verbose=True)
+2023-07-30 22:17:29,439:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:17:29,474:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:17:29,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:17:29,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:17:42,969:INFO:Initializing load_model()
+2023-07-30 22:17:42,970:INFO:load_model(model_name=C:\Users\USER\Downloads\TravelWorld-main\TravelWorld-main\models\Flight_ML, platform=None, authentication=None, verbose=True)
+2023-07-30 22:17:43,270:WARNING:C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '57.4.0', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '8.0.7', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.1', 'joblib': '1.3.1', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.1', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.0', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.0.4', 'IPython': '8.14.0', 'ipywidgets': '8.0.7', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '2.0.3', 'jinja2': '3.1.2', 'scipy': '1.11.1', 'joblib': '1.3.1', 'sklearn': '1.3.0', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.1', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.0', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-07-30 22:17:43,274:INFO:Initializing load_model()
+2023-07-30 22:17:43,275:INFO:load_model(model_name=C:\Users\USER\Downloads\TravelWorld-main\TravelWorld-main\models\Hotel_ML, platform=None, authentication=None, verbose=True)
+2023-07-30 22:17:43,338:INFO:Initializing predict_model()
+2023-07-30 22:17:43,339:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001DF4492BD00>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['岿', '老', '3俺岿', '免惫咯何', '流亲咯何'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LGBMRegressor(device='gpu', n_jobs=-1, random_state=4219))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001DF5667A680>)
+2023-07-30 22:17:43,340:INFO:Checking exceptions
+2023-07-30 22:17:43,341:INFO:Preloading libraries
+2023-07-30 22:17:43,345:INFO:Set up data.
+2023-07-30 22:17:43,363:INFO:Set up index.
+2023-07-30 22:20:17,946:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:20:18,059:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:20:18,059:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:20:18,059:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-30 22:20:31,375:INFO:Initializing load_model()
+2023-07-30 22:20:31,376:INFO:load_model(model_name=C:\Users\USER\Downloads\TravelWorld-main\TravelWorld-main\models\Flight_ML, platform=None, authentication=None, verbose=True)
+2023-07-30 22:20:31,574:WARNING:C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '57.4.0', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '8.0.7', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.1', 'joblib': '1.3.1', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.1', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.0', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.0.4', 'IPython': '8.14.0', 'ipywidgets': '8.0.7', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '2.0.3', 'jinja2': '3.1.2', 'scipy': '1.11.1', 'joblib': '1.3.1', 'sklearn': '1.3.0', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.1', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.0', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-07-30 22:20:31,599:INFO:Initializing load_model()
+2023-07-30 22:20:31,599:INFO:load_model(model_name=C:\Users\USER\Downloads\TravelWorld-main\TravelWorld-main\models\Hotel_ML, platform=None, authentication=None, verbose=True)
+2023-07-30 22:20:31,691:INFO:Initializing predict_model()
+2023-07-30 22:20:31,691:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A3600FBD00>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['岿', '老', '3俺岿', '免惫咯何', '流亲咯何'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LGBMRegressor(device='gpu', n_jobs=-1, random_state=4219))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA680>)
+2023-07-30 22:20:31,693:INFO:Checking exceptions
+2023-07-30 22:20:31,693:INFO:Preloading libraries
+2023-07-30 22:20:31,697:INFO:Set up data.
+2023-07-30 22:20:31,721:INFO:Set up index.
+2023-07-30 22:20:32,101:INFO:Initializing load_model()
+2023-07-30 22:20:32,101:INFO:load_model(model_name=C:\Users\USER\Downloads\TravelWorld-main\TravelWorld-main\models\Hotel_ML, platform=None, authentication=None, verbose=True)
+2023-07-30 22:20:32,113:WARNING:C:\Users\USER\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '57.4.0', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '8.0.7', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.11.1', 'joblib': '1.3.1', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.1', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.0', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.0.4', 'IPython': '8.14.0', 'ipywidgets': '8.0.7', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '2.0.3', 'jinja2': '3.1.2', 'scipy': '1.11.1', 'joblib': '1.3.1', 'sklearn': '1.3.0', 'pyod': '1.1.0', 'imblearn': '0.11.0', 'category_encoders': '2.6.1', 'lightgbm': '4.0.0', 'numba': '0.57.1', 'requests': '2.31.0', 'matplotlib': '3.7.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.0', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-07-30 22:20:32,172:INFO:Initializing predict_model()
+2023-07-30 22:20:32,173:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371D4D0F0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:32,173:INFO:Checking exceptions
+2023-07-30 22:20:32,173:INFO:Preloading libraries
+2023-07-30 22:20:32,174:INFO:Set up data.
+2023-07-30 22:20:32,210:INFO:Set up index.
+2023-07-30 22:20:32,591:INFO:Initializing predict_model()
+2023-07-30 22:20:32,592:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371DD2E30>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:32,592:INFO:Checking exceptions
+2023-07-30 22:20:32,592:INFO:Preloading libraries
+2023-07-30 22:20:32,595:INFO:Set up data.
+2023-07-30 22:20:32,612:INFO:Set up index.
+2023-07-30 22:20:32,889:INFO:Initializing predict_model()
+2023-07-30 22:20:32,890:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371D4CB80>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:32,890:INFO:Checking exceptions
+2023-07-30 22:20:32,890:INFO:Preloading libraries
+2023-07-30 22:20:32,891:INFO:Set up data.
+2023-07-30 22:20:32,900:INFO:Set up index.
+2023-07-30 22:20:33,155:INFO:Initializing predict_model()
+2023-07-30 22:20:33,156:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371D4D0F0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:33,156:INFO:Checking exceptions
+2023-07-30 22:20:33,156:INFO:Preloading libraries
+2023-07-30 22:20:33,157:INFO:Set up data.
+2023-07-30 22:20:33,164:INFO:Set up index.
+2023-07-30 22:20:33,384:INFO:Initializing predict_model()
+2023-07-30 22:20:33,384:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A3600FBC70>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:33,384:INFO:Checking exceptions
+2023-07-30 22:20:33,385:INFO:Preloading libraries
+2023-07-30 22:20:33,385:INFO:Set up data.
+2023-07-30 22:20:33,415:INFO:Set up index.
+2023-07-30 22:20:33,653:INFO:Initializing predict_model()
+2023-07-30 22:20:33,654:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A3600FBDF0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:33,655:INFO:Checking exceptions
+2023-07-30 22:20:33,655:INFO:Preloading libraries
+2023-07-30 22:20:33,656:INFO:Set up data.
+2023-07-30 22:20:33,666:INFO:Set up index.
+2023-07-30 22:20:33,925:INFO:Initializing predict_model()
+2023-07-30 22:20:33,925:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371D4D0F0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:33,925:INFO:Checking exceptions
+2023-07-30 22:20:33,926:INFO:Preloading libraries
+2023-07-30 22:20:33,928:INFO:Set up data.
+2023-07-30 22:20:33,959:INFO:Set up index.
+2023-07-30 22:20:34,257:INFO:Initializing predict_model()
+2023-07-30 22:20:34,257:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A3600FBC70>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:34,258:INFO:Checking exceptions
+2023-07-30 22:20:34,258:INFO:Preloading libraries
+2023-07-30 22:20:34,259:INFO:Set up data.
+2023-07-30 22:20:34,270:INFO:Set up index.
+2023-07-30 22:20:34,546:INFO:Initializing predict_model()
+2023-07-30 22:20:34,547:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371D4CB80>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:34,547:INFO:Checking exceptions
+2023-07-30 22:20:34,548:INFO:Preloading libraries
+2023-07-30 22:20:34,548:INFO:Set up data.
+2023-07-30 22:20:34,567:INFO:Set up index.
+2023-07-30 22:20:34,863:INFO:Initializing predict_model()
+2023-07-30 22:20:34,863:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001A371D4D0F0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\pc\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['斥', '岿', '老', '夸老', '林富', '备开'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model', DecisionTreeRegressor(random_state=4873))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A371DDA710>)
+2023-07-30 22:20:34,864:INFO:Checking exceptions
+2023-07-30 22:20:34,864:INFO:Preloading libraries
+2023-07-30 22:20:34,865:INFO:Set up data.
+2023-07-30 22:20:34,884:INFO:Set up index.
